@@ -1,0 +1,1 @@
+export const deployed_url = "http://localhost:8090"
