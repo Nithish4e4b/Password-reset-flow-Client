@@ -1,1 +1,1 @@
-export const deployed_url = "http://localhost:8090"
+export const deployed_url = "https://foure4b-password-reset.onrender.com"
